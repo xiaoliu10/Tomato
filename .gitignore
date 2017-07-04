@@ -1,5 +1,13 @@
 # Compiled class file
 *.class
+target/
+*.iml
+*.tar.gz
+.DS_Store
+.project
+.settings
+.classpath
+.gitignore.swp
 
 # Log file
 *.log
